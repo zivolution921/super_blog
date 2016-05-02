@@ -1,0 +1,3 @@
+class PgesController < ApplicationController
+
+end
