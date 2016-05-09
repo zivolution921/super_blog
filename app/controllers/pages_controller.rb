@@ -1,3 +1,3 @@
-class PgesController < ApplicationController
+class PagesController < ApplicationController
 
 end
